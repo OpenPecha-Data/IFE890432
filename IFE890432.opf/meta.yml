@@ -1,0 +1,31 @@
+id: IFE890432
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:02:45.668380'
+last_modified: '2022-05-30T22:02:45.668403'
+parser: null
+source_metadata:
+  title: Katok Rigdzin Chenpo
+  language: de
+  description: 'Texts by Katok Rigdzin Chenpo Pema Wangchen Dorje (kaḥ thog rig ''dzin
+    chen po padma dbang chen rdo rje):'
+  volume:
+    fEE76:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: fEE76.txt
+      order: 1
+      parent: Long Life Prayers
+    f600F:
+      title: Prayer for the Long Life of Pewar Rinpoche
+      base_file: f600F.txt
+      order: 2
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
